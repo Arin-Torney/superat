@@ -29,7 +29,7 @@ bg-black
 outline-yellow-hover
 border-green
 ```  
-This is how you put int in HTML.  
+This is how you put it in HTML.  
 ```HTML
 <p class="text-orange-hover bg-blue border-yellow outline-green-hover">Hello World</p>
 ```
