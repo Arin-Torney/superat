@@ -4,7 +4,7 @@ micro.css is a CSS framework which is made for commonly used style by Ishan Kube
 ## Cheat Sheet  
 Syntax:
 _extension_-_color_
-_extension__color__hover_  
+_extension-color-hover_  
 This is a list of extensions.  
 ```
 text - Text Color
